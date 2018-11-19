@@ -1,0 +1,4 @@
+C:\Users\DELL\Downloads\berkan\ders\Programlama Dili-3\Hafta1\odev1\csharpodev1\csharpodev1\obj\x86\Debug\csharpodev1.exe
+C:\Users\DELL\Downloads\berkan\ders\Programlama Dili-3\Hafta1\odev1\csharpodev1\csharpodev1\obj\x86\Debug\csharpodev1.pdb
+C:\Users\DELL\Downloads\berkan\ders\Programlama Dili-3\Hafta1\odev1\Adam-Asmaca\csharpodev1\obj\x86\Debug\csharpodev1.exe
+C:\Users\DELL\Downloads\berkan\ders\Programlama Dili-3\Hafta1\odev1\Adam-Asmaca\csharpodev1\obj\x86\Debug\csharpodev1.pdb
